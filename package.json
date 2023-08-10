@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@pwabuilder/pwaauth": "^0.9.7"
+  }
+}
