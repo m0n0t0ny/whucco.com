@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.whucco.twa",
-      "sha256_cert_fingerprints":
-        ["48:BD:E5:33:A4:A8:E3:F4:03:93:BD:BD:39:92:40:2B:F6:A7:8B:84:C9:48:99:EE:94:3B:4A:B7:E4:86:7A:4A"]
+      "sha256_cert_fingerprints": [
+        "48:BD:E5:33:A4:A8:E3:F4:03:93:BD:BD:39:92:40:2B:F6:A7:8B:84:C9:48:99:EE:94:3B:4A:B7:E4:86:7A:4A"
+      ]
     }
   }
 ]
