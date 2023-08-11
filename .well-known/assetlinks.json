@@ -5,10 +5,12 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.m0n0t0ny.twa",
+      "package_name": "whucco",
       "sha256_cert_fingerprints": [
         "73:B2:48:7C:0E:F4:1B:8D:5E:DE:41:35:E7:76:A6:F2:8E:0A:B2:47:FD:F4:A8:13:06:69:E0:91:21:27:22:FB"
       ]
     }
   }
 ]
+
+      // "package_name": "io.github.m0n0t0ny.twa",
