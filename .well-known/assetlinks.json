@@ -1,16 +1,11 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "whucco",
-      "sha256_cert_fingerprints": [
-        "73:B2:48:7C:0E:F4:1B:8D:5E:DE:41:35:E7:76:A6:F2:8E:0A:B2:47:FD:F4:A8:13:06:69:E0:91:21:27:22:FB"
-      ]
+      "package_name": "com.whucco.twa",
+      "sha256_cert_fingerprints":
+        ["48:BD:E5:33:A4:A8:E3:F4:03:93:BD:BD:39:92:40:2B:F6:A7:8B:84:C9:48:99:EE:94:3B:4A:B7:E4:86:7A:4A"]
     }
   }
 ]
-
-      // "package_name": "io.github.m0n0t0ny.twa",
